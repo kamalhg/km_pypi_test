@@ -2,12 +2,12 @@ from distutils.core import setup
 setup(
   name = 'km_pypi_test',
   packages = ['km_pypi_test'], # this must be the same as the name above
-  version = '0.1',
+  version = '0.2',
   description = 'A random test lib',
   author = 'Kamal',
   author_email = 'kamalhg@gmail.com',
   url = 'https://github.com/kamalhg/km_pypi_test', # use the URL to the github repo
-  download_url = 'https://github.com/kamalhg/km_pypi_test/tarball/0.1', # I'll explain this in a second
+  download_url = 'https://github.com/kamalhg/km_pypi_test/tarball/0.2', # I'll explain this in a second
   keywords = ['testing', 'logging', 'example'], # arbitrary keywords
   classifiers = [],
 )
