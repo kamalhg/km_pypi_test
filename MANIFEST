@@ -2,3 +2,4 @@
 setup.cfg
 setup.py
 km_pypi_test/__init__.py
+km_pypi_test/views.py
